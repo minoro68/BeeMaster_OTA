@@ -1,5 +1,8 @@
 {
-  "command": "update_master"/"restart_master"
+  "command": "update_master"
 }
+{
+  "command":"restart_master"
+}                         
 
 
