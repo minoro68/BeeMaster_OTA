@@ -1,3 +1,5 @@
 {
-  "command": "update_master"/"update_node"
+  "command": "update_master"/"restart_master"
 }
+
+
